@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/selo" mode="merge"/>
+    <filter root="/content/selo" mode="merge"/>
+    <filter root="/content/dam/selo/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/selo" mode="merge"/>
+</workspaceFilter>
